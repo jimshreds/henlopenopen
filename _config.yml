@@ -1,0 +1,8 @@
+name: Is Cape Henlopen Open
+markdown: kramdown
+encoding: UTF-8
+plugins:
+  - ruby
+  - sass
+  - liquid
+  - jekyll-sass-converter
